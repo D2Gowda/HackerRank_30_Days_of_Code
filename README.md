@@ -5,9 +5,9 @@
 ### This Repository contains the HackerRank 20 days challenge code.
 | Day | Challenge | Level |
 | ----| ----------| ------|
-| 0 | Mean, Median and Mode | Easy |
-| 1 |||
-||||
+| 0 | Hello, World | Easy |
+| 1 | Data Types | Easy |
+| 2 | Operators | Easy |
 ||||
 ||||
 ||||
