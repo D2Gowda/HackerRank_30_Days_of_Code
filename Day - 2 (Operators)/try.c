@@ -21,3 +21,4 @@ int main() {
     solve(meal_cost, tip_percent, tax_percent);
 
     return 0;
+}
