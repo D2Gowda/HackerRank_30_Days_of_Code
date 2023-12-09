@@ -6,7 +6,7 @@
 | Day | Challenge | Level |
 | ----| ----------| ------|
 | 0 | Mean, Median and Mode | Easy |
-||||
+| 1 |||
 ||||
 ||||
 ||||
