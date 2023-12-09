@@ -8,7 +8,7 @@
 | 0 | Hello, World | Easy |
 | 1 | Data Types | Easy |
 | 2 | Operators | Easy |
-||||
+| 3 | Intro to Conditional Statements | Easy |
 ||||
 ||||
 ||||
