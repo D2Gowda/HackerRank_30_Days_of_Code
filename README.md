@@ -13,11 +13,11 @@
 | 5 | Loops | Easy |
 | 6 | Let's Review | Easy |
 | 7 | Arrays | Easy |
-||||
-||||
-||||
-||||
-||||
+| 8 | Dictonaries and Maps | Easy |
+| 9 | Recursion 3 | Easy |
+| 10 | Binary Numbers | Easy |
+| 11 | 2D Arrays | Easy |
+| 12 | Inheritance | Easy |
 ||||
 ||||
 ||||
