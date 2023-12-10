@@ -9,10 +9,10 @@
 | 1 | Data Types | Easy |
 | 2 | Operators | Easy |
 | 3 | Intro to Conditional Statements | Easy |
-||||
-||||
-||||
-||||
+| 4 | Class vs. Instance | Easy |
+| 5 | Loops | Easy |
+| 6 | Let's Review | Easy |
+| 7 | Arrays | Easy |
 ||||
 ||||
 ||||
