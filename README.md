@@ -18,8 +18,8 @@
 | 10 | Binary Numbers | Easy |
 | 11 | 2D Arrays | Easy |
 | 12 | Inheritance | Easy |
-||||
-||||
+| 13 | Abstract Classes | Easy |
+| 14 | Scope | Easy |
 ||||
 ||||
 ||||
