@@ -20,9 +20,9 @@
 | 12 | Inheritance | Easy |
 | 13 | Abstract Classes | Easy |
 | 14 | Scope | Easy |
-||||
-||||
-||||
+| 15 | Linked List | Easy |
+| 16 |||
+| 17 |||
 ||||
 ||||
 ||||
