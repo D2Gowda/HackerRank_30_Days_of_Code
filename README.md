@@ -21,11 +21,11 @@
 | 13 | Abstract Classes | Easy |
 | 14 | Scope | Easy |
 | 15 | Linked List | Easy |
-| 16 |||
-| 17 |||
-| 18 |||
-| 19 |||
-| 20 |||
+| 16 | Exceptions - String to Integer | Easy |
+| 17 | More Exceptions ||
+| 18 | Queues and Stacks ||
+| 19 | Interfaces ||
+| 20 | Sorting ||
 | 21 |||
 | 22 |||
 | 23 |||
