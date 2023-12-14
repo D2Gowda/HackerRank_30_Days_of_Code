@@ -31,7 +31,7 @@
 | 23 | BST Level - Order Traversal ||
 | 24 | More Linked Lists ||
 | 25 | Running Time Complexity ||
-| 26 | ||
-| 27 |||
-| 28 |||
-| 29 |||
+| 26 | Nested Logic ||
+| 27 | Testing ||
+| 28 | RegEx, Patterns, and Intro to Databases ||
+| 29 | Bitwise AND ||
