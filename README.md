@@ -22,9 +22,9 @@
 | 14 | Scope | Easy |
 | 15 | Linked List | Easy |
 | 16 | Exceptions - String to Integer | Easy |
-| 17 | More Exceptions ||
-| 18 | Queues and Stacks ||
-| 19 | Interfaces ||
+| 17 | More Exceptions | Easy |
+| 18 | Queues and Stacks | Easy |
+| 19 | Interfaces | Easy |
 | 20 | Sorting ||
 | 21 | Generies ||
 | 22 | Binary Search Tress ||
