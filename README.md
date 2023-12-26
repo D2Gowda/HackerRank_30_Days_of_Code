@@ -25,13 +25,13 @@
 | 17 | More Exceptions | Easy |
 | 18 | Queues and Stacks | Easy |
 | 19 | Interfaces | Easy |
-| 20 | Sorting ||
-| 21 | Generies ||
-| 22 | Binary Search Tress ||
-| 23 | BST Level - Order Traversal ||
-| 24 | More Linked Lists ||
-| 25 | Running Time Complexity ||
-| 26 | Nested Logic ||
-| 27 | Testing ||
-| 28 | RegEx, Patterns, and Intro to Databases ||
-| 29 | Bitwise AND ||
+| 20 | Sorting | Easy |
+| 21 | Generies | Easy |
+| 22 | Binary Search Tress | Easy |
+| 23 | BST Level - Order Traversal | Easy |
+| 24 | More Linked Lists | Easy |
+| 25 | Running Time Complexity | Medium |
+| 26 | Nested Logic | Easy |
+| 27 | Testing | Easy |
+| 28 | RegEx, Patterns, and Intro to Databases | Medium |
+| 29 | Bitwise AND | Medium |
